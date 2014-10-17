@@ -1,0 +1,1 @@
+Map module for humhub.
