@@ -2,10 +2,8 @@
     "id": "map",
     "name": "kMap - Beta",
     "description": "Map for showing activities.",
-    "keywords": ["map"],
+    "keywords": [ "map" ],
     "version": "0.0.1",
-    "humhub": {
-        "minVersion": "0.8.0"
-    },
+    "humhub": { "minVersion": "0.8.0" },
     "screenshots": ["assets/screen.jpg"]
 }
